@@ -19,7 +19,7 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div className='flex justify-center items-center'>
-                    <img className='w-10' src="/src/assets/logo.png" alt="" />
+                    <img className='w-10' src="/logo.png" alt="" />
                     <Link to="/" className="font-bold text-2xl bg-gradient-to-r from-[#632EE3] to-[#9F62F2] bg-clip-text text-transparent">HERO.IO</Link>
 
                 </div>

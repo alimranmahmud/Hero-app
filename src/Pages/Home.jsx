@@ -20,13 +20,13 @@ const Home = () => {
             <div className='flex justify-center items-center gap-4  mt-7'>
                 <Link to='https://play.google.com/store/games?hl=en'>
                 <button className=' btn flex justify-center items-center gap-3'>
-                    <img className='w-7' src="/src/assets/playStore.png" alt="" />
+                    <img className='w-7' src="/playStore.png" alt="" />
                     <h2>Google Play</h2>
                 </button>
                 </Link>
                 <Link to='https://www.apple.com/app-store/'>
                 <button className=' btn flex justify-center items-center gap-3'>
-                    <img className='w-7' src="/src/assets/appStore.png" alt="" />
+                    <img className='w-7' src="/appStore.png" alt="" />
                     <h2>App Store</h2>
                 </button>
                 </Link>

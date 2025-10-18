@@ -7,7 +7,7 @@ const Footer = () => {
           <footer className="footer flex justify-between items-center sm:footer-horizontal  text-neutral-content p-10">
             <aside>
                 <div className='flex justify-center items-center gap-4'>
-                    <img className='w-10' src="/src/assets/logo.png" alt="" />
+                    <img className='w-10' src="/logo.png" alt="" />
                     <Link to="/" className="font-bold text-2xl text-white">HERO.IO</Link>
 
                 </div>
